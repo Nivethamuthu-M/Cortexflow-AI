@@ -1,0 +1,5 @@
+line too large to be displayed (19428 characters)
+       id INTEGER PRIMARY KEY AUTOINCREMENT,  
+       title TEXT,
+       date TEXT
+line too large to be displayed (41017 characters)
